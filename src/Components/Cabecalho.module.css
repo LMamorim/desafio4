@@ -1,0 +1,15 @@
+.cabecalho section{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 0px;
+    padding-top: 150px;
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: space-between;
+}
+
+.cabecalho h4 {
+    margin: 0px;
+    font-size: 30px;
+}

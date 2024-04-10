@@ -1,0 +1,34 @@
+.lista p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 30%;
+}
+
+.lista label {
+   text-align: left;
+   color: white;
+   width: 150px;
+}
+
+.lista input {
+    text-align: left;
+}
+
+.lista ul {
+    display: flex;
+    list-style: none;
+}
+
+.lista li {
+    padding-left: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.lista li:hover {
+    transform: translateY(-5px);
+    transition-duration: 0.5s;
+}
+
